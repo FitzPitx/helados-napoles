@@ -43,7 +43,7 @@ export default function Contacto() {
           </div>
           <div className="map-embed">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.8588133468074!2d-74.11716621852416!3d4.619265606012991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9951bef6a091%3A0xa3e5d5fcd33cf8e2!2sCl.%204a%20%2353c62%2C%20Bogot%C3%A1!5e0!3m2!1sen!2sco!4v1787190183399!5m2!1sen!2sco"
+              src="https://www.google.com/maps/embed?pb=!4v1789346169331!6m8!1m7!1s3HcnN2OC-Opfy_5HBy36BQ!2m2!1d4.619677082916618!2d-74.11805477905409!3f38.703312!4f0!5f0.7820865974627469"
               title="Ubicación de Helados Nápoles en Google Maps"
               loading="lazy"
               referrerPolicy="strict-origin-when-cross-origin"
